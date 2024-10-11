@@ -3,9 +3,13 @@
 @tailwind utilities;
 
 body {
-  background-color: Lightgray;
+  background-color: whitesmoke;
 }
 
 .container {
+  margin: 0 auto;
+}
+
+.Headercontainer {
   margin: 0 auto;
 }
